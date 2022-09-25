@@ -97,6 +97,13 @@ namespace Matching_Game
 
 
             MessageBox.Show("You matched all the icons!");
+>>>>>>>>> Temporary merge branch 2
+>>>>>>>>> Temporary merge branch 2
+>>>>>>>>> Temporary merge branch 2
+>>>>>>>>> Temporary merge branch 2
+>>>>>>>>> Temporary merge branch 2
+>>>>>>>>> Temporary merge branch 2
+>>>>>>>>> Temporary merge branch 2
             Close();
         }
     }
