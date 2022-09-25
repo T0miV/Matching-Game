@@ -95,11 +95,11 @@ namespace Matching_Game
                     return;
             }
 
-<<<<<<< HEAD
+
             MessageBox.Show("You matched all the icons!");
-=======
+
             MessageBox.Show("You matches the icons!");
->>>>>>> 567ebbb684743fb018f4585435d19704b75e5fa1
+
             Close();
         }
     }
